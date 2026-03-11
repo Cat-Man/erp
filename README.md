@@ -108,3 +108,7 @@ corepack pnpm build
 ```
 
 详细检查项见 `docs/runbooks/release-checklist.md`。
+
+## License
+
+`MIT`
